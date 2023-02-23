@@ -1,0 +1,8 @@
+En este curso teórico-práctico el estudiante entenderá los elementos fundamentales de la teoría de la
+Computación y límites del uso de las computadoras en la solución de problemas, usando los conceptos 
+de máquina de Turing y los resultados básicos de este esquema de computación, las técnicas más usadas 
+en el diseño de algoritmos y por último la revisión de algunas clases de complejidad de problemas. Se
+desarrollarán las habilidades de interpretar y manejar símbolos abstractos, deducir e inducir utilizando
+lenguaje matemático; identificar, modelar e implementar la solución de problemas. Esta materia es
+simultánea a Aprendizaje Inteligente y Minería de Datos y es antecedente de Metaheurísticas I y
+Metaheurísticas II.
